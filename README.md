@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @derrickthegreat
-- 👀 I’m interested in personal finance & music production
-- 🌱 I’m currently learning ... Javascript!
-- 💞️ I’m looking to collaborate on ... any project that can teach me more concepts.
-- 📫 How to reach me ... derrickcanbereached@gmail.com
+# Hi, My name is Derrick!
 
-<!---
-derrickthegreat/derrickthegreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+And welcome to my GitHub profile! 
+
+## Fun Facts About Me:
+- I produce music and DJ as a hobby 
+- I was first exposed to HTML with MySpace
+- I am an insurance professional.... looking to change careers 😃
+
+
+#### _Current/Future projects:_
+- ETHGlobal's Web3 Hackathon *current*
+- Underwriting Property Verification tool 
